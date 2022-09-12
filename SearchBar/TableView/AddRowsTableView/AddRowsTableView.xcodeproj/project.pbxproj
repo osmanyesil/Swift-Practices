@@ -13,6 +13,7 @@
 		82A0B18528CFD0C40066FD60 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82A0B18328CFD0C40066FD60 /* Main.storyboard */; };
 		82A0B18728CFD0C70066FD60 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82A0B18628CFD0C70066FD60 /* Assets.xcassets */; };
 		82A0B18A28CFD0C70066FD60 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82A0B18828CFD0C70066FD60 /* LaunchScreen.storyboard */; };
+		82A0B19228CFDAC00066FD60 /* EditTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82A0B19128CFDAC00066FD60 /* EditTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		82A0B18628CFD0C70066FD60 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		82A0B18928CFD0C70066FD60 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		82A0B18B28CFD0C70066FD60 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		82A0B19128CFDAC00066FD60 /* EditTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				82A0B18628CFD0C70066FD60 /* Assets.xcassets */,
 				82A0B18828CFD0C70066FD60 /* LaunchScreen.storyboard */,
 				82A0B18B28CFD0C70066FD60 /* Info.plist */,
+				82A0B19128CFDAC00066FD60 /* EditTableViewCell.swift */,
 			);
 			path = AddRowsTableView;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				82A0B18228CFD0C40066FD60 /* ViewController.swift in Sources */,
 				82A0B17E28CFD0C40066FD60 /* AppDelegate.swift in Sources */,
 				82A0B18028CFD0C40066FD60 /* SceneDelegate.swift in Sources */,
+				82A0B19228CFDAC00066FD60 /* EditTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
